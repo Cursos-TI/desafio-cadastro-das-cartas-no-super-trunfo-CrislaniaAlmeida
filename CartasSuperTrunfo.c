@@ -2,13 +2,13 @@
 
 int main (){
 
-	char estado = 'A';
-	char codigoEstado [04] = "A01";
-	char nomeCidade [20] = "SaoPaulo";
-	int populacao = 12325000;
-	float area = 1521.11;
-	float pib = 699.28;
-	int pontosTuristico = 50;
+	char estado = 'B';
+	char codigoEstado [04] = "B01";
+	char nomeCidade [20] = "RioDeJaneiro";
+	int populacao = 6748000;
+	float area = 1200.25;
+	float pib = 300.50;
+	int pontosTuristico = 30;
 	
 	//Aqui o codigo está pedindo ao usuário que ele coloque as informaçãoes da cidade 
 	printf("Carta 01\n");
