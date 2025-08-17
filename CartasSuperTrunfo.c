@@ -11,7 +11,7 @@ int main (){
 	int pontosTuristico = 30;
 	
 	//Aqui o codigo está pedindo ao usuário que ele coloque as informaçãoes da cidade 
-	printf("Carta 01\n");
+	printf("Carta 02\n");
 	
 	printf("Digite a Letra que representa o Estado: ");
 	scanf("%c", &estado);
@@ -35,7 +35,7 @@ int main (){
 	scanf("%d", &pontosTuristico);
 	
 	//Aqui ele está imprimindo as informações da Carta 01
-	printf("\nCarta 01\n");
+	printf("\nCarta 02\n");
 	
 	printf("Estado: %c\n", estado);
 	printf("Codigo da Carta: %s\n", codigoEstado);
